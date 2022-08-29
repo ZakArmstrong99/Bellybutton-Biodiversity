@@ -1,1 +1,2 @@
 # Bellybutton-Biodiversity
+The purpose of this project was to visualize data on belly button bacteria. The webpage contains a panel with the data on each individual's ID, which includes demographic information, belly button type, and their washing frequency. There is also a bar chart displaying the top 10 bacteria cultures found in the inviduals belly button, a gauge showing the individuals washing frequency, and a bubble chart displaying the bacteria cuultures per sample.
