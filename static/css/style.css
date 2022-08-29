@@ -1,0 +1,34 @@
+body{
+    background-color: #333333;
+}
+
+.jumbotron{
+    background-color: rgb(74, 74, 187);
+    color: white;
+}
+
+.well{
+    background-color: rgb(74, 74, 187);
+    color: white;
+    border: none;
+}
+
+select{
+    color: black;
+}
+
+.panel{
+    border: none;
+}
+.panel-body{
+    background-color: rgb(93, 95, 100);
+    color: white;
+    
+}
+
+.panel > .panel-heading{
+    background-color: rgb(74, 74, 187);
+    background-image: none;
+    border: none;
+}
+
